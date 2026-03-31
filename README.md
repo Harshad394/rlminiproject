@@ -11,6 +11,7 @@ The old `openai-gym` package is no longer the recommended choice. This project u
 - `play_taxi.py` loads the trained Q-table and shows one demo episode
 - `taxi_rl.py` contains the reusable RL logic
 - `app.py` provides a browser UI
+- `runtime.txt` pins the Python version for deployment
 - `requirements.txt` contains the Python packages you need
 
 ## 1. Install Python tools
